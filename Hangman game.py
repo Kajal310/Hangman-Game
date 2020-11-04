@@ -21,6 +21,7 @@ def main():
     length = len(word)
     count = 0
     display = '_' * length
+    display2 = '_' * length
     already_guessed = []
     play_game = ""
 
